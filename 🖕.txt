@@ -1,0 +1,45 @@
+🗓️ LOG DEL SERVIDOR BlueRed - Agosto 2025
+
+[01/08 08:01:15] 🚀 Servidor iniciado, escuchando en puerto 9000
+[01/08 08:05:32] 🤝 Cliente conectado desde 192.168.100.3
+[01/08 08:05:35] 📁 Cantidad de archivos a recibir: 2
+[01/08 08:05:35] 📥 Recibiendo archivo: foto_vacaciones.jpg (1.2 MB)
+[01/08 08:05:37] ✅ Archivo guardado: foto_vacaciones.jpg
+[01/08 08:05:38] 📥 Recibiendo archivo: video_playa.mp4 (15.6 MB)
+[01/08 08:06:05] ✅ Archivo guardado: video_playa.mp4
+[01/08 08:06:06] ✅ Todos los archivos recibidos
+[01/08 12:20:40] 🤝 Cliente conectado desde 192.168.100.10
+[01/08 12:20:42] 📁 Cantidad de archivos a recibir: 1
+[01/08 12:20:42] 📥 Recibiendo archivo: documento.pdf (800 KB)
+[01/08 12:20:43] ✅ Archivo guardado: documento.pdf
+[01/08 12:20:44] ✅ Todos los archivos recibidos
+...
+[05/08 15:30:10] 🤝 Cliente conectado desde 192.168.100.5
+[05/08 15:30:12] 📁 Cantidad de archivos a recibir: 3
+[05/08 15:30:12] 📥 Recibiendo archivo: musica.mp3 (5.4 MB)
+[05/08 15:30:15] ✅ Archivo guardado: musica.mp3
+[05/08 15:30:15] 📥 Recibiendo archivo: notas.txt (1 KB)
+[05/08 15:30:15] ✅ Archivo guardado: notas.txt
+[05/08 15:30:16] 📥 Recibiendo archivo: imagen.png (2.3 MB)
+[05/08 15:30:18] ✅ Archivo guardado: imagen.png
+[05/08 15:30:18] ✅ Todos los archivos recibidos
+...
+[15/08 19:50:02] 🤝 Cliente conectado desde 192.168.100.8
+[15/08 19:50:04] 📁 Cantidad de archivos a recibir: 1
+[15/08 19:50:04] 📥 Recibiendo archivo: app.apk (12 MB)
+[15/08 19:50:10] ✅ Archivo guardado: app.apk
+[15/08 19:50:11] ✅ Todos los archivos recibidos
+...
+[28/08 09:12:55] 🤝 Cliente conectado desde 192.168.100.12
+[28/08 09:12:56] 📁 Cantidad de archivos a recibir: 4
+[28/08 09:12:56] 📥 Recibiendo archivo: proyecto.zip (45 MB)
+[28/08 09:13:10] ✅ Archivo guardado: proyecto.zip
+[28/08 09:13:11] 📥 Recibiendo archivo: datos.csv (2 MB)
+[28/08 09:13:12] ✅ Archivo guardado: datos.csv
+[28/08 09:13:12] 📥 Recibiendo archivo: informe.docx (1.2 MB)
+[28/08 09:13:13] ✅ Archivo guardado: informe.docx
+[28/08 09:13:14] 📥 Recibiendo archivo: imagen.jpg (3.1 MB)
+[28/08 09:13:16] ✅ Archivo guardado: imagen.jpg
+[28/08 09:13:16] ✅ Todos los archivos recibidos
+
+[31/08 23:59:59] ⏹️ Servidor detenido. Tiempo total activo: 31 días, 15 horas, 58 minutos
